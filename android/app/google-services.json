@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "512955431356",
+    "project_id": "liftKarade-1aadb",
+    "storage_bucket": "liftKarade-1aadb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512955431356:android:97759a321a444bb91293b9",
+        "android_client_info": {
+          "package_name": "com.liftKarade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJAJUmx4GFJpMK-BjRXCj2kzXFgAs7PBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512955431356:android:d247c65d0a5de3211293b9",
+        "android_client_info": {
+          "package_name": "com.liftKarade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJAJUmx4GFJpMK-BjRXCj2kzXFgAs7PBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
